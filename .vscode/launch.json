@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch School",
+            "request": "launch",
+            "mainClass": "OOPS.School",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch pyramid",
+            "request": "launch",
+            "mainClass": "pyramid",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arithmetic_Expressions",
+            "request": "launch",
+            "mainClass": "Arithmetic_Expressions",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays_Java",
+            "request": "launch",
+            "mainClass": "Arrays_Java",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch Casting_Type_Conversion",
+            "request": "launch",
+            "mainClass": "Casting_Type_Conversion",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constants",
+            "request": "launch",
+            "mainClass": "Constants",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch EscapeSequences",
+            "request": "launch",
+            "mainClass": "EscapeSequences",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch Formatting_Numbers",
+            "request": "launch",
+            "mainClass": "Formatting_Numbers",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multi_Dimensional_Arrays",
+            "request": "launch",
+            "mainClass": "Multi_Dimensional_Arrays",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimVsRef",
+            "request": "launch",
+            "mainClass": "PrimVsRef",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReferenceTypes",
+            "request": "launch",
+            "mainClass": "ReferenceTypes",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableTypes",
+            "request": "launch",
+            "mainClass": "VariableTypes",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch breakAndContinue",
+            "request": "launch",
+            "mainClass": "breakAndContinue",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch compareOperators",
+            "request": "launch",
+            "mainClass": "compareOperators",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch doWhileLoop",
+            "request": "launch",
+            "mainClass": "doWhileLoop",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch fizzBuzz",
+            "request": "launch",
+            "mainClass": "fizzBuzz",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch forLoop",
+            "request": "launch",
+            "mainClass": "forLoop",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifStatement",
+            "request": "launch",
+            "mainClass": "ifStatement",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch mathClass",
+            "request": "launch",
+            "mainClass": "mathClass",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch mortGage",
+            "request": "launch",
+            "mainClass": "mortGage",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch orderOfOperations",
+            "request": "launch",
+            "mainClass": "orderOfOperations",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch simpliftIf",
+            "request": "launch",
+            "mainClass": "simpliftIf",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchStatement",
+            "request": "launch",
+            "mainClass": "switchStatement",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch ternaryOperator",
+            "request": "launch",
+            "mainClass": "ternaryOperator",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch userInput",
+            "request": "launch",
+            "mainClass": "userInput",
+            "projectName": "Java_b6f90d76"
+        },
+        {
+            "type": "java",
+            "name": "Launch whileLoop",
+            "request": "launch",
+            "mainClass": "whileLoop",
+            "projectName": "Java_b6f90d76"
+        }
+    ]
+}
